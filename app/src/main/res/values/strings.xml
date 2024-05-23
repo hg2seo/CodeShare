@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project12_2</string>
+    <string name="login_text">로그인</string>
+    <string name="main_text">메인</string>
+</resources>
